@@ -1,4 +1,4 @@
-wa# lab2py
+# lab2py
 # Praktikum python
 
 ## Latihan 1
@@ -9,14 +9,14 @@ wa# lab2py
 Print("Hello")
 ```
 ### maka outputnya
-![Alt text](latihan1.jpg)
+![Alt text](Latihan1.jpg)
 
 * Menampilkan tulisan “Saya sedang belajar python” dilayar
 ```
 Print("Saya sedang belajar python")
 ```
 ### maka outputnya
-![Alt text](latihan2.jpg)
+![Alt text](Latihan2.jpg)
 
 ## Latihan 2
 
@@ -33,7 +33,7 @@ print("Variable b=",b )
 print("Hasil penjumlahan a+b=",a + b )
 ```
 ### maka outputnya
-![Alt text](image-3.png)
+![Alt text](Latihan3.jpg)
 
 ## Latihan 3
 
