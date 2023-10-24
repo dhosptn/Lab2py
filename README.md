@@ -9,7 +9,7 @@
 Print("Hello")
 ```
 ### maka outputnya
-![Alt text](image-1.png)
+![Alt text](latihan1.jpg)
 
 * Menampilkan tulisan “Saya sedang belajar python” dilayar
 ```
