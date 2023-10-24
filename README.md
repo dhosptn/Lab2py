@@ -1,20 +1,50 @@
 # lab2py
-## command 
-Mengonfigurasi Nama Pengguna:
- - git config --global user.name "nama_user" Perintah ini mengatur nama pengguna Git secara global. Gantilah "nama_user" dengan nama pengguna Git yang ingin kalian gunakan.
- - Mengonfigurasi Alamat Email:
- - git config --global user.email "alamat_email" Perintah ini mengatur alamat email Git secara global. Gantilah "alamat_email" dengan alamat email yang ingin Anda gunakan.
- - git init  digunakan untuk memulai repositori Git baru. Ketika Anda menjalankan git init dalam direktori proyek, Git akan menginisialisasi repositori baru dan menetapkan 
-   konfigurasi awal yang diperlukan untuk melacak perubahan pada proyek tersebut.
- - $ echo “# Lab2py” >> README.md untuk mencetak teks tersebut, dan kemudian hasilnya ditambahkan (append) ke dalam file README.md. Dengan ini, file README.md akan memiliki 
-   atau akan dibuat dengan konten # Lab2py
- - git add dapat digunakan secara spesifik untuk file tertentu atau direktori, memberikan Anda fleksibilitas untuk memilih perubahan mana yang akan dimasukkan dalam staging 
-  area.
- - git commit -m “hi” Untuk menyimpan perubahan yang ada kedalam database repository local
- - git remote add origin https://github.com/dhosptn/lab2py.git Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada 
-   local repository, sehingga dapat diakses oleh banyak user.
- - git push -u origin master/main Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
- - git clone [url] Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working 
-   directory).
- - README.md Pada file tersebut kita dapat membuat dokumentasi awal dari setiap project yang kita buat untuk memberikan penjelasan atau sekedar cara penggunaan dari 
-   aplikasi yang kita kembangkan.
+# Praktikum python
+
+## Latihan 1
+
+* Menjalankan Python Console
+* Menampilkan tulisan “Hello” dilayar
+```
+Print("Hello")
+```
+### maka outputnya
+![Alt text](image-1.png)
+
+* Menampilkan tulisan “Saya sedang belajar python” dilayar
+```
+Print("Saya sedang belajar python")
+```
+### maka outputnya
+![Alt text](image-2.png)
+
+## Latihan 2
+
+* Menjumlahkan dua buah bilangan menggunakan variabel a dan b.
+* Mendefinisikan variable a dengan nilai 8
+* Mendefinisikan variable b dengan nilai 6
+* Mencetak nilai variable a dan b
+* Mencetak hasil penjumlahan a+b
+```
+a = 8
+b = 6
+print("Variable a=",a )
+print("Variable b=",b )
+print("Hasil penjumlahan a+b=",a + b )
+```
+### maka outputnya
+![Alt text](image-3.png)
+
+## Latihan 3
+
+* Menjalankan VSCODE
+* Membuat file baru dengan nama latihan3.py (pastikan lokasi file
+pada folder lab2py pada direktori kerja anda)
+* Menggunakan fungsi input untuk mengambil nilai variabel dari
+keyboard.
+
+![al](image-4.png)
+
+### Maka Outputnya
+
+![Alt text](image-5.png)
