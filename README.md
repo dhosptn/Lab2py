@@ -33,7 +33,7 @@ print("Variable b=",b )
 print("Hasil penjumlahan a+b=",a + b )
 ```
 ### maka outputnya
-![Alt text](Latihan3.jpg)
+![Alt text](Latihan2.jpg)
 
 ## Latihan 3
 
@@ -43,8 +43,8 @@ pada folder lab2py pada direktori kerja anda)
 * Menggunakan fungsi input untuk mengambil nilai variabel dari
 keyboard.
 
-![al](image-4.png)
+![al](Latihan3.jpg)
 
 ### Maka Outputnya
 
-![Alt text](image-5.png)
+![Alt text](Latihan3.jpg)
