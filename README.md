@@ -1,4 +1,4 @@
-# lab2py
+wa# lab2py
 # Praktikum python
 
 ## Latihan 1
@@ -16,7 +16,7 @@ Print("Hello")
 Print("Saya sedang belajar python")
 ```
 ### maka outputnya
-![Alt text](image-2.png)
+![Alt text](latihan2.jpg)
 
 ## Latihan 2
 
